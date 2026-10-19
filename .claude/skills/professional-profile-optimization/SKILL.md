@@ -77,7 +77,7 @@ Quando houver uma **vaga específica**, adaptar todo o processo a ela (ver "Adap
 
 ## O que nunca fazer
 
-Não inventar métricas, ferramentas, liderança ou resultados; não inflar cargos; não traduzir títulos literalmente; não encher o perfil de buzzwords; não dar o mesmo nível de detalhe a toda a carreira; não presumir que ausência de informação = ausência de experiência.
+Não inventar métricas, ferramentas, liderança ou resultados; não inflar cargos; não traduzir títulos literalmente; não encher o perfil de buzzwords; não dar o mesmo nível de detalhe a toda a carreira; não presumir que ausência de informação = ausência de experiência; **nunca usar o travessão (—)** em nenhum texto entregue (ver `references/linguagem-natural.md`).
 
 Lista completa em `references/revisao-e-consistencia.md`.
 

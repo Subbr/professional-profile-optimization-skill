@@ -13,6 +13,14 @@ Um perfil profissional não deve parecer texto genérico produzido por IA.
 - "driving transformational excellence"
 - Frases abstratas
 - Excesso de buzzwords
+- Travessão (—) usado como muleta estrutural, encadeando "X, Y — Z — W" em vez de frases completas
+- Cataloguing rígido: listar responsabilidades em frases paralelas de mesmo formato ("Lidero A. Também conduzo B. Também liderei C.") sem variação de ritmo
+
+## Nunca usar travessão (—)
+
+Regra dura, não estilística: **nunca usar o travessão em nenhum texto escrito para o profissional** (cover letter, currículo, resposta de questionário, LinkedIn, etc.). O travessão encadeando orações é um dos sinais mais reconhecíveis de texto gerado por IA — é a construção "X, Y — Z, W" que aparece quando se tenta empacotar contexto, pivô e conclusão na mesma frase.
+
+Antes de entregar qualquer texto, buscar por "—" e reescrever cada ocorrência com ponto final + nova frase, vírgula, parênteses, ou conectivos naturais ("mas", "então", "e"). Isso vale tanto para texto novo quanto para texto já existente que está sendo reaproveitado de outra candidatura (um documento-base com travessões não deve ser copiado sem essa limpeza).
 
 Não é necessário eliminar toda linguagem corporativa. O objetivo é equilibrar profissionalismo e autenticidade. Preferir fatos e contexto.
 
