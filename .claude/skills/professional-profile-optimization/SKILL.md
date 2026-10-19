@@ -1,6 +1,6 @@
 ---
 name: professional-profile-optimization
-description: Orienta a criação, revisão, tradução e otimização de perfis profissionais — LinkedIn (headline, About, experiências, skills), currículo/CV, cover letter, bio profissional, resumo executivo e respostas de processo seletivo — incluindo localização para mercado internacional e compatibilidade com ATS/recrutadores. Use sempre que o usuário pedir para escrever, revisar, traduzir, adaptar a uma vaga específica, ou otimizar keywords de um perfil, LinkedIn, currículo, carta de apresentação ou material de candidatura.
+description: Cria, revisa, traduz e otimiza perfis profissionais para vagas específicas (LinkedIn, currículo/CV, cover letter, bio profissional, resumo executivo, respostas de processo seletivo), incluindo localização para mercado internacional e compatibilidade com ATS. Use sempre que pedirem para escrever, revisar, traduzir, adaptar a uma vaga ou otimizar keywords de currículo, LinkedIn ou carta de apresentação.
 ---
 
 # Professional Profile Strategy & Optimization
@@ -93,7 +93,3 @@ Lista completa em `references/revisao-e-consistencia.md`.
 | `references/cover-letter.md` | Estrutura de Cover Letter |
 | `references/linguagem-natural.md` | Como evitar texto genérico/artificial de IA |
 | `references/revisao-e-consistencia.md` | Sistema de revisão, adaptação para vaga, coerência entre documentos, o que não fazer |
-
-## Resultado esperado
-
-Ao final: posicionamento claro; headline forte; About coerente; experiências priorizadas; descrições com contexto + ação + impacto; skills relevantes; terminologia internacional adequada; CV compatível com a vaga-alvo; Cover Letter específica quando necessária; narrativa de carreira coerente; evidências de senioridade; keywords relevantes; linguagem natural; consistência entre os materiais.
